@@ -1,3 +1,5 @@
+# Basic Template for the program.
+
 from data import DICTIONARY, LETTER_SCORES
 
 def load_words():
